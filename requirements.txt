@@ -1,0 +1,6 @@
+yt-dlp
+webvtt-py
+python-dotenv
+Flask
+Flask-Caching
+flask-cors
